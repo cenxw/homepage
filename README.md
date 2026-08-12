@@ -55,21 +55,22 @@
 </p>
 -->
 
+<!--提交信息统计--> 
+<!-- ![cen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004&hide_border=true) 󠁅 󠁅󠁅-->             
+<!--语言信息统计--> 
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22&hide_border=true) -->    
 
-![cen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cenxiaowei2004&hide_border=true) 󠁅 󠁅󠁅󠁅             <!--提交信息统计--> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cenxiaowei2004&line_height=22&hide_border=true) <!--语言信息统计--> 
-
----
-
+<!-- --- -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cenxiaowei2004/cenxiaowei2004/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cenxiaowei2004/cenxiaowei2004/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cenxiaowei2004/cenxiaowei2004/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004&theme="github-light"&bg_color=fffff0)
- <!--提交信息折线图-->
+<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cenxiaowei2004&theme="github-light"&bg_color=fffff0) -->
+<!--提交信息折线图-->
 
 
  
